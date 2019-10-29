@@ -9,23 +9,29 @@ class BankAccount(object):
         return self.balance
 
     def open(self):
+        if not self.accountClosed:
+            raise Exception("Can not open a opened account")
         self.accountClosed = False
-        print("Opening Account")
 
     def deposit(self, amount):
         if self.accountClosed:
-            raise Exception("Can do deposit on closed account")
-        print("Account Deposit")
+            raise Exception("Can not do deposit on closed account")
+        if amount < 0:
+            raise Exception("Can not deposit negative amount")
+
         self.balance = self.balance + amount
-        pass
 
     def withdraw(self, amount):
         if self.accountClosed:
             raise Exception("Can not do withdraw on closed account")
-        print("Account Withdraw")
-        self.balance = self.balance - amount
-        pass
+
+        if self.balance >= amount:
+            self.balance = self.balance - amount
+        else:
+            raise Exception("Can not withdraw more than balance")
 
     def close(self):
+        if self.accountClosed:
+            raise Exception("Can not close a closed account")
         self.accountClosed = True
-        print("Close Account")
+        self.balance = 0
