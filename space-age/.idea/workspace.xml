@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cecbc284-49ee-4497-99df-388a8524e04b" name="Default Changelist" comment="" />
+    <list default="true" id="f66972ce-a17f-4340-95f6-6e9b72aa3877" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SXDOoFtGyKuB364vdKSJKdBXlj" />
+  <component name="ProjectId" id="1SZlti0EHNJDSyoBcCE7I7B8TmV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -28,9 +28,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Unittests in hangman_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="hangman" />
+  <component name="RunManager" selected="Python tests.Unittests in space_age_test.py">
+    <configuration name="space_age" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="space-age" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/space_age.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in space_age_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="space-age" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -39,13 +60,14 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/hangman_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/space_age_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in hangman_test.py" />
+        <item itemvalue="Python tests.Unittests in space_age_test.py" />
+        <item itemvalue="Python.space_age" />
       </list>
     </recent_temporary>
   </component>
@@ -54,11 +76,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cecbc284-49ee-4497-99df-388a8524e04b" name="Default Changelist" comment="" />
-      <created>1571701017572</created>
+      <changelist id="f66972ce-a17f-4340-95f6-6e9b72aa3877" name="Default Changelist" comment="" />
+      <created>1571779214544</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571701017572</updated>
+      <updated>1571779214544</updated>
     </task>
     <servers />
   </component>
@@ -67,9 +89,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

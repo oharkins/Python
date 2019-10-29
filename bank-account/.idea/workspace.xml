@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b69d973a-93ad-4c57-b87e-12252460099f" name="Default Changelist" comment="" />
+    <list default="true" id="7da340cf-1ff1-49b3-8788-7abaa6ae9b99" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SXCEfh1G7IqrFxosyHht0Svhmm" />
+  <component name="ProjectId" id="1SZzcCmzkjZk3h7XIPm5CD34Om9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -28,20 +35,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.resistor_color_test">
-    <configuration name="resistor_color" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="resistor-color" />
+  <component name="RunManager" selected="Python.StepThrough">
+    <configuration name="StepThrough" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bank-account" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.exercism" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resistor_color.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.exercism/StepThrough.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,8 +57,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="resistor_color_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="resistor-color" />
+    <configuration name="bank_account_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bank-account" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -62,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resistor_color_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bank_account_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.resistor_color_test" />
-        <item itemvalue="Python.resistor_color" />
+        <item itemvalue="Python.StepThrough" />
+        <item itemvalue="Python.bank_account_test" />
       </list>
     </recent_temporary>
   </component>
@@ -83,11 +90,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b69d973a-93ad-4c57-b87e-12252460099f" name="Default Changelist" comment="" />
-      <created>1571700442038</created>
+      <changelist id="7da340cf-1ff1-49b3-8788-7abaa6ae9b99" name="Default Changelist" comment="" />
+      <created>1571785982314</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571700442038</updated>
+      <updated>1571785982314</updated>
     </task>
     <servers />
   </component>
@@ -96,7 +103,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

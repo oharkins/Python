@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cecbc284-49ee-4497-99df-388a8524e04b" name="Default Changelist" comment="" />
+    <list default="true" id="b2e7bce4-590c-4af2-bab5-af34812150d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SXDOoFtGyKuB364vdKSJKdBXlj" />
+  <component name="ProjectId" id="1SZkpKUtsWfcq3Ea4R7l3JhqZLI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -29,23 +29,30 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unittests in hangman_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="hangman" />
+    <configuration name="reverse_string_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="reverse-string" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/hangman_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse_string_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in hangman_test.py" />
+        <item itemvalue="Python.reverse_string_test" />
       </list>
     </recent_temporary>
   </component>
@@ -54,11 +61,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cecbc284-49ee-4497-99df-388a8524e04b" name="Default Changelist" comment="" />
-      <created>1571701017572</created>
+      <changelist id="b2e7bce4-590c-4af2-bab5-af34812150d5" name="Default Changelist" comment="" />
+      <created>1571778686425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571701017572</updated>
+      <updated>1571778686425</updated>
     </task>
     <servers />
   </component>
@@ -67,9 +74,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
